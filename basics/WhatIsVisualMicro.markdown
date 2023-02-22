@@ -2,6 +2,7 @@
 layout: page
 title: What Is Visual Micro?
 permalink: /Introduction/WhatIsVisualMicro
+nav_order: 1
 ---
 
 [//]: # (https://www.visualmicro.com/page/User-Guide.aspx?doc=what_is_visual_micro.html)
