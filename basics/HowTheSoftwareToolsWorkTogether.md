@@ -2,6 +2,7 @@
 layout: page
 title: How The Software Tools Work Together
 permalink: /Introduction/HowTheSoftwareToolsWorkTogether
+nav_order: 3
 ---
 [//]: # (https://www.visualmicro.com/page/User-Guide.aspx?doc=How-The-Tools-Play-Together.html)
 
