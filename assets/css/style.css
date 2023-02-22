@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+/* Ensure the site content fits */
 
 .wy-nav-content {
   max-width: max-content !important;
