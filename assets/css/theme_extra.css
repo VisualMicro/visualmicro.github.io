@@ -131,8 +131,9 @@ td, th {
 }
 
 
-/* START OF VM ADDITIONS -- Ensure the site content fits */
+/* START OF VM ADDITIONS Above Theme Basics */
 
+/*  Ensure the site content fits the full page width instead of being restricted */
 .wy-nav-content {
-  max-width: max-content !important;
+  max-width: none !important;
 }
