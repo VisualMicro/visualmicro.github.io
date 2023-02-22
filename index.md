@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Welcome to the Visual Micro Documentation Site.
+
+Browse the links from the left bar to view our documentation.
