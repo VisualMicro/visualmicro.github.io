@@ -3,6 +3,7 @@ layout: page
 title: How The Software Tools Work Together
 permalink: /Introduction/HowTheSoftwareToolsWorkTogether
 ---
+[//]: # (https://www.visualmicro.com/page/User-Guide.aspx?doc=How-The-Tools-Play-Together.html)
 
 # How the Software Tools Work Together
 This page gives you an insight on how the different software tools work together.
