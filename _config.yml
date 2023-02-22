@@ -38,11 +38,11 @@ remote_theme: carlosperate/jekyll-theme-rtd
 # Theme Settings
 #     Search fails currently
 search_enabled: false
-edit_on_github: true
-repo_url: 'https://github.com/VisualMicro/visualmicro.github.io/tree/master'
-logo: 'https://www.visualmicro.com/themes/VisualMicro2019/pics/footer-logo.png'
-site_favicon: 'https://www.visualmicro.com/pics/arduino-visual-studio-ld.png'
-sticky_navigation: true
+# edit_on_github: true
+# repo_url: 'https://github.com/VisualMicro/visualmicro.github.io/tree/master'
+# logo: 'https://www.visualmicro.com/themes/VisualMicro2019/pics/footer-logo.png'
+# site_favicon: 'https://www.visualmicro.com/pics/arduino-visual-studio-ld.png'
+# sticky_navigation: true
 
 plugins:
   - jekyll-feed
