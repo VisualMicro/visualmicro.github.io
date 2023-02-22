@@ -1,3 +1,9 @@
+---
+layout: page
+title: What Is Arduino?
+permalink: /Introduction/WhatIsArduino
+---
+
 [//]: # (https://www.visualmicro.com/page/What-Is-Arduino-Information.aspx)
 
 # What Is Arduino
