@@ -25,14 +25,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.visualmicro.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
 # theme: minima
 # DOESNT WORK: remote_theme: rundocs/jekyll-rtd-theme
+
+# This one does! https://www.embeddedlog.com/jekyll-theme-rtd/configuration/configyml.html
 remote_theme: carlosperate/jekyll-theme-rtd
+# Theme Settings
+#     Search fails currently
+search_enabled: false
+edit_on_github: true
+repo_url: 'https://github.com/VisualMicro/visualmicro.github.io/tree/master'
+logo: 'https://www.visualmicro.com/themes/VisualMicro2019/pics/footer-logo.png'
+site_favicon: 'https://www.visualmicro.com/pics/arduino-visual-studio-ld.png'
+sticky_navigation: true
 
 plugins:
   - jekyll-feed
