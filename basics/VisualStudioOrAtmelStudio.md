@@ -13,7 +13,7 @@ Both programs, Visual Studio and Atmel Studio, are so called **IDE**s, **I**nteg
 
 **Microsoft Visual Studio** is a commercial product from Microsoft that you can buy in software stores.
 
-> **Note**
+> :memo: **Note:** 
 Microsoft also offers "[Visual Studio Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs)", which is a fully featured, free version for teams of up to 5 developers or non-commercial applications.
 Visual Micro is fully compatible with this edition.
 For all users who don't have access to the commercial edition, Community edition is a great -and legal- option for using Visual Studio without any costs.
