@@ -2,7 +2,7 @@
 layout: page
 title: Installation
 excerpt: Learn how to get started using Visual Micro with our Installation guide!
-permalink: /First Steps/Installation
+permalink: /2. First Steps/Installation
 canonical_url: https://www.visualmicro.com/page/User-Guide.aspx?doc=Getting-started.html
 nav_order: 1
 search_exclude: false

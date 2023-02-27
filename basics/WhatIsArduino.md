@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What Is Arduino?
-permalink: /Introduction/WhatIsArduino
+permalink: /1. Introduction/WhatIsArduino
 nav_order: 2
 ---
 

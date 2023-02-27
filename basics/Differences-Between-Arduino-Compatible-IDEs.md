@@ -2,7 +2,7 @@
 layout: page
 title: Differences Between Arduino Compatible IDEs
 excerpt: With so much choice of Arduino Development environments it can be hard to choose.  See our overview of the benefits and differences of the main ones here...
-permalink: /Introduction/Differences-Between-Arduino-Compatible-IDEs
+permalink: /1. Introduction/Differences-Between-Arduino-Compatible-IDEs
 canonical_url: https://visualmicro.github.io/Introduction/Differences-Between-Arduino-Compatible-IDEs
 nav_order: 5
 search_exclude: false

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What Is Visual Micro?
-permalink: /Introduction/WhatIsVisualMicro
+permalink: /1. Introduction/WhatIsVisualMicro
 nav_order: 1
 ---
 

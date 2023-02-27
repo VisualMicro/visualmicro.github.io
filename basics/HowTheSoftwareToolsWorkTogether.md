@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How The Software Tools Work Together
-permalink: /Introduction/HowTheSoftwareToolsWorkTogether
+permalink: /1. Introduction/HowTheSoftwareToolsWorkTogether
 nav_order: 3
 ---
 
