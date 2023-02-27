@@ -137,3 +137,8 @@ td, th {
 .wy-nav-content {
   max-width: none !important;
 }
+
+/* Add Centered Text */
+.text-center {
+    text-align: center;
+}
