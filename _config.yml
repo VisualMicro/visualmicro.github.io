@@ -34,7 +34,7 @@ github_username:  jekyll
 # DOESNT WORK: remote_theme: rundocs/jekyll-rtd-theme
 
 # This one does! https://www.embeddedlog.com/jekyll-theme-rtd/configuration/configyml.html
-remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: VisualMicro/jekyll-theme-rtd
 # Theme Settings
 #     Search fails currently
 search_enabled: true
