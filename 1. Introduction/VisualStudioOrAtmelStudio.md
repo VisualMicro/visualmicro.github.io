@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Visual Studio or Atmel Studio
-permalink: /1. Introduction/VisualStudioOrAtmelStudio
 nav_order: 4
 ---
+[//]: # (permalink: /1. Introduction/VisualStudioOrAtmelStudio)
 [//]: # (https://www.visualmicro.com/page/User-Guide.aspx?doc=Getting-started-which-IDE.html)
 
 # Visual Studio or Atmel Studio?

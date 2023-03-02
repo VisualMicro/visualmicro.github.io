@@ -1,10 +1,9 @@
 ---
 layout: page
 title: How The Software Tools Work Together
-permalink: /1. Introduction/HowTheSoftwareToolsWorkTogether
 nav_order: 3
 ---
-
+[//]: # (permalink: /1. Introduction/HowTheSoftwareToolsWorkTogether)
 [//]: # (https://www.visualmicro.com/page/User-Guide.aspx?doc=How-The-Tools-Play-Together.html)
 
 # How the Software Tools Work Together

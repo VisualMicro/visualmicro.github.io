@@ -2,12 +2,12 @@
 layout: page
 title: Sketch Compatability
 excerpt: How to add new/existing source files to Arduino sketches, and how to delete files. Explains Arduino file types and examples for creating classes.
-permalink: /1. Introduction/SketchCompatability
 canonical_url: https://visualmicro.github.io/Introduction/SketchCompatability
 nav_order: 6
 search_exclude: false
 nav_exclude: false
 ---
+[//]: # (permalink: /1. Introduction/SketchCompatability)
 [//]: # (Add Link to previous page in a commend, in case of issues and for reference)
 [//]: # (https://www.visualmicro.com/page/User-Guide.aspx?doc=Compatibility.html)
 
