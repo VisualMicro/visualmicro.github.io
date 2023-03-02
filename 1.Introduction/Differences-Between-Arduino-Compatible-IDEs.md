@@ -2,12 +2,12 @@
 layout: page
 title: Differences Between Arduino Compatible IDEs
 excerpt: With so much choice of Arduino Development environments it can be hard to choose.  See our overview of the benefits and differences of the main ones here...
+permalink: /Introduction/Differences-Between-Arduino-Compatible-IDEs
 canonical_url: https://visualmicro.github.io/Introduction/Differences-Between-Arduino-Compatible-IDEs
 nav_order: 5
 search_exclude: false
 nav_exclude: false
 ---
-[//]: # (permalink: /1. Introduction/Differences-Between-Arduino-Compatible-IDEs)
 [//]: # (https://www.visualmicro.com/page/Differences-Between-Arduino-Compatible-IDEs.aspx)
 
 There are a variety of Arduino Compatible IDEs which are available today, below we break down Visual Micro vs the standard Arduino IDE and PlatformIO.

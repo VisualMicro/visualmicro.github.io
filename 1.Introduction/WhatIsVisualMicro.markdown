@@ -1,9 +1,10 @@
 ---
 layout: page
 title: What Is Visual Micro?
+permalink: /Introduction/WhatIsVisualMicro
+canonical_url: https://visualmicro.github.io/Introduction/WhatIsVisualMicro
 nav_order: 1
 ---
-[//]: # (permalink: /1. Introduction/WhatIsVisualMicro)
 [//]: # (https://www.visualmicro.com/page/User-Guide.aspx?doc=what_is_visual_micro.html)
  
 # What is Visual Micro?
