@@ -148,3 +148,9 @@ td, th {
     padding: 8px;
 }
 
+/* Ensure the Left Sidebar shows the vertical scroll option when required */
+.wy-side-scroll {
+    overflow-x: unset !important;
+    overflow-y: visible !important;
+}
+
