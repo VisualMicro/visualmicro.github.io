@@ -149,7 +149,7 @@ td, th {
 }
 
 /* Ensure the Left Sidebar shows the vertical scroll option when required */
-.wy-side-scroll {
+.wy-nav-side {
     overflow-x: unset !important;
     overflow-y: visible !important;
 }
